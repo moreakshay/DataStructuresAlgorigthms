@@ -1,6 +1,4 @@
-package LinkedList;
-
-import LinkedList.LinkedListProblems.ListNode;
+package linkedlist;
 
 public class Solutions {
 
